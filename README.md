@@ -25,8 +25,10 @@ Thank you for the opportunity! Please see my notes below.  I did not have enough
 
 ## TODO / nice to have
 - Tests!
+- Fix bugs!
 - Confirm operation (did not have time to confirm all functionality)
 - More organization around API endpoints 
 - Add validation for params and body
+- More error checking
 - Use database!
 - Check for duplicate names of doctors, patients
